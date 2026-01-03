@@ -1,11 +1,11 @@
-# Resolvendo Códigos em Python com o Github Copilot
+# DESAFIO DE PROJETO
+## Utilizando as Ferramentas do GitHub para Solucionar Algoritmos em Python
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+Implementação de desafio de projeto que visa explorar o GitHub Copilot e o Codespace para implementar diversos algorítmos simples, mas com o objetivo de aprender a utilizar as ferramentas para auxiliar na programação com Python.
+Este desafio faz parte do Bootcamp LUIZALABS - Back-End com Python, promovido pela Digital Innovation One - DIO.
 
-### Atenção ⚠️ 
-
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+# Algorítmos a implementar
+A implementação de cada algorítmo consta em arquivo separado com nome que identifica o desafio.
 
 ## 1 - Concatenando Dados 🐾
 
